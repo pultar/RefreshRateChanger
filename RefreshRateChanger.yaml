@@ -1,0 +1,4 @@
+TargetRefreshRate: 144
+BackupRefreshRate: 120
+BinaryPath: "QRes.exe"
+Delay: 5
